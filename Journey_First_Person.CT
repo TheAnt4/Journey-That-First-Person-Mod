@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="45">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>0</ID>
+      <Description>"Camera Distance"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>143763DAC</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>70</Key>
+          </Keys>
+          <Value>0.0000001</Value>
+          <Description>Switch to First Person Mode</Description>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>84</Key>
+          </Keys>
+          <Value>0.5</Value>
+          <Description>Switch to Third Person Mode</Description>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Objects Clipping"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>140731F48</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>70</Key>
+          </Keys>
+          <Value>0.43</Value>
+          <Description>Switch to First Person mode</Description>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>84</Key>
+          </Keys>
+          <Value>0.150000006</Value>
+          <Description>Switch to Third Person mode</Description>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"Camera Control Timer"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>140731EB4
+
+</Address>
+      <Hotkeys>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>70</Key>
+          </Keys>
+          <Value>100000000</Value>
+          <Description>Switch to First Person Mode</Description>
+          <ID>0</ID>
+        </Hotkey>
+        <Hotkey>
+          <Action>Set Value</Action>
+          <Keys>
+            <Key>84</Key>
+          </Keys>
+          <Value>3</Value>
+          <Description>Switch to Third Person Mode</Description>
+          <ID>1</ID>
+        </Hotkey>
+      </Hotkeys>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
